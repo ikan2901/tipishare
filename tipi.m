@@ -657,8 +657,8 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
   <--- Astro Suprsport --->
   #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORTS",Astro SuperSport 1 HD
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.m3u8
-//http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+//http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORTS",Astro SuperSport 2 HD
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240969.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",Astro SuperSport 3 HD
