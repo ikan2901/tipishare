@@ -1,6 +1,8 @@
 #EXTM3U
 <-- nasional  -->
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="National TV",RTV (D)
+http://rr1.dens.tv/h/h10/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="National TV",O Channel (D)
 http://rr2.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="National TV",TVRI (D)
@@ -146,7 +148,8 @@ http://rr1.dens.tv/h/h04/index.m3u8
 http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema Europe HD (D)
 http://rr.dens.tv/h/h18/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",KIX HD (D)
+http://rr1.dens.tv/h/h07/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -229,6 +232,9 @@ https://stream-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/cinemaworld.png" group-title="Movies",Cinema World (K)
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Family Channel (D)
+http://rr.dens.tv/h/h194/index.m3u8
+
 <--- atas Movies --->
 
 
@@ -246,8 +252,6 @@ http://rr.dens.tv/h/h08/index.m3u8
 http://rr.dens.tv/h/h143/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Entertainment",tvN HD (D)
 http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Entertainment",KIX HD (D)
-http://rr1.dens.tv/h/h07/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -322,7 +326,7 @@ http://rr1.dens.tv/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Kids",My Kidz HD (D)
 http://rr.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Kids",Toonz Kids (D)
-http://rr1.dens.tv/h/h10/index1.m3u8
+http://rr3.dens.tv/s/s81/index2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -652,18 +656,9 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 <--- atas Knowledge --->
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Family Channel (D)
-http://rr3.dens.tv/s/s81/index2.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="National TV",RTV (D)
-http://rr.dens.tv/h/h194/index.m3u8
-
-
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
