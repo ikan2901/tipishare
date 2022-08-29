@@ -655,6 +655,19 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <--- atas Knowledge --->
 
+  <--- Astro Suprsport --->
+  #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORTS",Astro SuperSport 1 HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.m3u8
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORTS",Astro SuperSport 2 HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240969.m3u8
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",Astro SuperSport 3 HD
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240970.m3u8
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORTS",Astro SuperSport 4 HD
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
+
+<--- atas Astro Supersport --->
+  
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
