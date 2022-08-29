@@ -292,6 +292,12 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movies",Celestial Movies (Z)
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="Movies",Flik (KH)
+http://iptvid.my.id/hmm/flik.m3u8
+
+#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="Movies",Citra Bioskop (KH)
+http://tvn.x10.mx/vidio/master-2.m3u8
 <--- atas Movies --->
 
 
@@ -623,9 +629,42 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Sports",Motorvision TV HD (D)
 http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/sukanrtm.png" group-title="Sports",Sukan RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="Sports",Champions TV 1 (KH)
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="Sports",Champions TV 2 (KH)
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sports",Champions TV 3 (KH)
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro Supersport (KH)
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414 
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro Supersport 2 (KH)
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20415
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro Supersport 3 (KH)
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20416
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro Supersport 4 (KH)
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports",Astro Supersport 5 (KH)
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.comc/samleong123/rtm-live/main/rtmklik.xml" group-title="Sports",TV Sukan (KH)
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1 9KH)
+http://1tv1.net:8080/live/nazha2021/123456/9342.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="Sports",Sky Sports Football (KH)
+http://1tv1.net:8080/live/nazha2021/123456/55390.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="Sports",Sky Sports Main Event (KH)
+http://1tv1.net:8080/live/nazha2021/123456/55382.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="sports",Sky Sports Premier League (KH)
+http://1tv1.net:8080/live/nazha2021/123456/55384.m3u8
 <--- atas Sports --->
 
 <--- Religi --->
