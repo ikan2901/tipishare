@@ -120,22 +120,6 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 <--- Movies --->
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tvnmovies.png" group-title="Movies",tvN Movies HD (D)
-http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/ccm.png" group-title="Movies",Celestial Classic Movies (D)
-http://rr2.dens.tv/s/s31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema Asia (D)
-http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/zeebioskop.png" group-title="Movies",Zee Bioskop (D)
-http://rr2.dens.tv/s/s32/index10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/thrill.png" group-title="Movies",Thrill (D)
-http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema HD (D)
-http://rr.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema Europe HD (D)
-http://rr.dens.tv/h/h18/index.m3u8
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -287,6 +271,10 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 http://iptvid.my.id/hmm/flik.m3u8
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="Movies",Citra Bioskop (KH)
 http://tvn.x10.mx/vidio/master-2.m3u8
+#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="Movies",IMC (KH)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 <--- atas Movies --->
 
 
@@ -294,18 +282,7 @@ http://tvn.x10.mx/vidio/master-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/hits.png" group-title="Entertainment",HITS HD (D)
 http://rr1.dens.tv/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Entertainment",ROCK Entertainment HD (D)
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Entertainment",ROCK Extreme HD (D)
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/kplus.png" group-title="Entertainment",K-PLUS HD (D)
-http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/sonyone.png" group-title="Entertainment",ONE HD (D)
-http://rr.dens.tv/h/h143/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tvn.png" group-title="Entertainment",tvN HD (D)
-http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/kix.png" group-title="Entertainment",KIX HD (D)
-http://rr1.dens.tv/h/h07/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -373,18 +350,16 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="WarnerTVSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Entertainment" tvg-logo="https://img.ksa.my.id/warner.png",WARNER TV (Z)
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Entertainment",K-PLUS
-http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WS8GnIB.png" group-title="Entertainment",The Indonesia Channel (KH)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="Entertainment",Usee Prime (KH)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 <--- atas Entertainment --->
 
 <---  Kids  --->
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/aniplus.png" group-title="Kids",ANIPLUS HD (D)
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Kids",My Kidz HD (D)
-http://rr.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Kids",Toonz Kids (D)
-http://rr3.dens.tv/s/s81/index2.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -429,8 +404,6 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 <--- News --->
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="News",TV5MONDE Style HD (D)
-http://rr1.dens.tv/h/h01/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -618,14 +591,18 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.comc/samleong123/rtm-live/main/rtmklik.xml" group-title="Sports",TV Sukan (KH)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1 9KH)
-http://1tv1.net:8080/live/nazha2021/123456/9342.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="Sports",Sky Sports Football (KH)
-http://1tv1.net:8080/live/nazha2021/123456/55390.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="Sports",Sky Sports Main Event (KH)
-http://1tv1.net:8080/live/nazha2021/123456/55382.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="sports",Sky Sports Premier League (KH)
-http://1tv1.net:8080/live/nazha2021/123456/55384.m3u8
+
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://i.imgur.com/AcB6gDy.png" group-title="Sports",Soccer Channel (KH)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsZ2Zks.png" group-title="Sports",Матч! Футбол 1 (KH)
+http://95.183.43.237:8080/258/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsQjzj4.png" group-title="Sports",Матч! Футбол 2 (KH)
+http://95.183.43.237:8080/259/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkIcKWs.png" group-title="Sports",Матч! Футбол 3 (KH)
+http://95.183.43.237:8080/260/index.m3u8
+
 <--- atas Sports --->
 
 <--- Religi --->
